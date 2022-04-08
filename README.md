@@ -1,2 +1,2 @@
-# dq-gun-deaths-usa
+# dq-gd-usa
 Simple project on python
